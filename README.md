@@ -1,4 +1,5 @@
 # NeuroScout
+<img width="1536" height="1187" alt="NEUROSCOUT- landing page" src="https://github.com/user-attachments/assets/a6481893-c69d-41ad-b746-5c179ea0d69f" />
 
 **NeuroScout** is an application designed to serve as a robust foundation for technology driven systems, particularly those involving artificial intelligence, data centric workflows, and digital innovation. The project emphasizes conceptual clarity, architectural readiness, and institutional grade quality suitable for academic, research, and early stage applications.
 
