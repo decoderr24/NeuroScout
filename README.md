@@ -51,10 +51,10 @@ NeuroScout is developed to support the following objectives:
 
 NeuroScout leverages widely adopted and industry proven technologies:
 
-- **React** — For building dynamic and efficient user interfaces  
-- **TypeScript** — Ensures type safety, reliability, and maintainable codebases  
-- **Vite** — Provides a high performance development and build environment  
-- **Node.js Ecosystem** — Supports dependency management and modern development workflows  
+- **React** : For building dynamic and efficient user interfaces  
+- **TypeScript** : Ensures type safety, reliability, and maintainable codebases  
+- **Vite** : Provides a high performance development and build environment  
+- **Node.js Ecosystem** : Supports dependency management and modern development workflows  
 
 ---
 
