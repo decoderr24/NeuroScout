@@ -75,7 +75,7 @@ The architecture of NeuroScout allows for future expansion into:
 - Data driven dashboards and analytical visualizations  
 - AI assisted ideation and decision support workflows  
 - Multi user environments with role based access control  
-- Deployment as a (SaaS) or institutional internal system  
+- Deployment as a (SaaS) 
 
 ---
 
