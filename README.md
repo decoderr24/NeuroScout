@@ -63,8 +63,7 @@ NeuroScout leverages widely adopted and industry proven technologies:
 
 - Software Engineers and Frontend Developers  
 - AI Engineers and Data Scientists  
-- Academic Researchers and University Students  
-- Startups and Product Teams seeking a professional prototyping foundation  
+- Academic Researchers and University Students
 
 ---
 
