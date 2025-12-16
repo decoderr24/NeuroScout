@@ -1,6 +1,6 @@
 # NeuroScout
 
-**NeuroScout** NeuroScout is an application designed to serve as a robust foundation for technology driven systems, particularly those involving artificial intelligence, data centric workflows, and digital innovation. The project emphasizes conceptual clarity, architectural readiness, and institutional-grade quality suitable for academic, research, and early stage applications.
+**NeuroScout** is an application designed to serve as a robust foundation for technology driven systems, particularly those involving artificial intelligence, data centric workflows, and digital innovation. The project emphasizes conceptual clarity, architectural readiness, and institutional-grade quality suitable for academic, research, and early stage applications.
 
 Rather than functioning as a simple user interface prototype, NeuroScout represents a structured platform that bridges conceptual ideation, modern web technologies, and scalable system design.
 
