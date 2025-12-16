@@ -84,5 +84,3 @@ The architecture of NeuroScout allows for future expansion into:
 
 **decoder**  
 GitHub: https://github.com/decoderr24  
-
----
