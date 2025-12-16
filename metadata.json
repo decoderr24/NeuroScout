@@ -1,0 +1,5 @@
+{
+  "name": "NeuroScout - ML Project Architect",
+  "description": "An intelligent assistant for generating, architecting, and validating Machine Learning final year projects using Gemini 2.5 and 3.0 models.",
+  "requestFramePermissions": []
+}
