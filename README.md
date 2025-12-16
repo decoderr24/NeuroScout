@@ -72,9 +72,7 @@ NeuroScout leverages widely adopted and industry proven technologies:
 
 The architecture of NeuroScout allows for future expansion into:
 
-- Integration with AI and machine learning backends  
 - Data driven dashboards and analytical visualizations  
-- AI assisted ideation and decision support workflows  
 - Multi user environments with role based access control  
 - Deployment as a (SaaS) 
 
